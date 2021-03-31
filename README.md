@@ -7,6 +7,6 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 
 | read-notes     | links |
 | ----------- | ----------- |
-| grothmindest    | [grothmindest](grothmindest)      |
+| growthmindest    | [growthmindest](grothmindest)      |
 | markdown   |  [markdown](markdown)   |
 | Seeing Your Remotes | [remotes](remotes) |
