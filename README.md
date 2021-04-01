@@ -11,3 +11,4 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | markdown   |  [markdown](markdown)   |
 | Seeing Your Remotes | [remotes](remotes) |
 | html & css | [htmlandcss](htmlandcss) |
+| javascript | [javascript](javascript) |
