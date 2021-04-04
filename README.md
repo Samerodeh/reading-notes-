@@ -12,3 +12,4 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | Seeing Your Remotes | [remotes](remotes) |
 | html & css | [htmlandcss](htmlandcss) |
 | javascript | [javascript](javascript) |
+| javascript & jQuery | [jsloops](jsloops) |
