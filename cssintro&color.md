@@ -66,9 +66,24 @@ not need a closing tag), and it
 lives inside the <head> element.
 It should use three attributes:**
 
-| 1.href | 2.type | 3.rel |
-|--------|--------|-------|
-|This specifies the path to CSS file. |This attribute specifies the type of document being linked to. |this specifies the relationship between the HTML page and the file it is linked to.| 
+> 1. href
+
+*This specifies the path to the
+CSS file (which is often placed in
+a folder called css or styles).*
+
+> 2. type
+
+*This attribute specifies the type
+of document being linked to. The
+value should be text/css*.
+
+> 3. rel 
+
+*This specifies the relationship
+between the HTML page and
+the file it is linked to. The value
+should be styleshee*
 
 ### HOW Usi ng Internal CSS ?
 
