@@ -67,9 +67,9 @@ lives inside the <head> element.
 It should use three attributes:**
 
 | 1.href | 2.type | 3.rel |
-|------|------|-----|
-| This specifies the path to CSS file. | This attribute specifies the type of document being linked to. | this specifies the relationship between the HTML page and the file it is linked to.| 
-| | | |
+|--------|--------|-------|
+|This specifies the path to CSS file. |This attribute specifies the type of document being linked to. |this specifies the relationship between the HTML page and the file it is linked to.| 
+
 ### HOW Usi ng Internal CSS ?
 
 #### (style)
