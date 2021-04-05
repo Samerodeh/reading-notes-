@@ -13,3 +13,4 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | html & css | [htmlandcss](htmlandcss) |
 | javascript | [javascript](javascript) |
 | javascript & jQuery | [jsloops](jsloops) |
+| css intro & color | [cssintro&color](cssintro&color) |
