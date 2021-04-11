@@ -3,7 +3,10 @@ https://github.com/Samerodeh
 # Samerodeh
 I'm physical therapist and owner of HERA. I'm looking forward to learning programming.
 
->programming course reading-notes tables
+> reading-notes tables:
+
+1. ***Code 102 Reading Notes***
+
 
 | read-notes     | links |
 | ----------- | ----------- |
@@ -14,4 +17,10 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | javascript | [javascript](javascript) |
 | javascript & jQuery | [jsloops](jsloops) |
 | css intro & color | [cssintro&color](cssintro&color) |
+
+
+2. ***Code 201 Reading Notes***
+
+| read-notes     | links |
+| ----------- | ----------- |
 | class-01 | [class-01](class-01) |
