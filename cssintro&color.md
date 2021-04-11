@@ -6,7 +6,7 @@
 an element should appear. For example, you can specify that
 the background of the page.***
 
-### CSS Associates Style rules with HT ML elements:
+### CSS Associates Style rules with HTML elements:
 
 * CSS works by associating rules with HTML elements. These rules govern
 how the content of specified elements should be displayed. A CSS rule
@@ -30,7 +30,7 @@ Declarations are split into two
 parts (a property and a value),
 and are separated by a colon.*
 
-### How El ements Are Displayed ?
+### How Elements Are Displayed ?
 
 * CSS declarations sit inside curly brackets and each is made up of two
 parts: a property and a value, separated by a colon. You can specify
