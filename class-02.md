@@ -210,3 +210,138 @@ within an HTML page by placing
 them inside a (style) element,
 which usually sits inside the
 (head) element of the page.** 
+
+# JavaScript 
+
+## Chapter 2 
+
+### Basic JavaScript Instructions 
+
+> GIVING INSTRUCTIONS:
+
+**FOR A BROWSER TO FOLLOW
+Web browsers (and computers in general)
+approach tasks in a very different way than
+a human might. Your instructions need to
+reflect how computers get things done.** 
+
+1. STATEMENTS
+
+*A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon.* 
+
+2. COMMENTS
+
+*You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code.* 
+
+* MULTI-LINE COMMENTS
+
+*To write a comment that stretches over more than
+one line, you use a multi-line comment, starting with
+the / * characters and ending with the * / characters.
+Anything between these characters is not processed·
+by the JavaScript interpreter.* 
+
+* SINGLE-LINE COMMENTS 
+
+*In a single-line comment, anything that follows the
+two forward slash characters // on that line will not
+be processed by the JavaScript interpreter. Singleline
+comments are often used for short descriptions
+of what the code is doing.* 
+
+3. VARIABLE 
+
+*A variable is a good name for this
+concept because the data stored
+in a variable can change (or vary)
+each time a script runs.* 
+
+4. Expressions 
+
+*An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions.*
+
+* EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE 
+* EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A
+SINGLE VALUE 
+
+
+5. Operators
+
+*Expressions rely on things called operators; they allow programmers to
+create a single value from one or more values.*
+
+## Chapter 4
+
+### Decisions and Loops
+
+>1. DECISIONS
+
+***Using the results of
+evaluations, you can
+decide which path your
+script should go down.*** 
+
+![DECISIONS MAKING](https://www.tutorialspoint.com/es6/images/decision_making.jpg) 
+
+>2. LOOPS
+
+***There are also many
+occasions where you will
+want to perform the same
+set of steps repeatedly.***
+
+***Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. types of loops:***
+
+1. FOR LOOP
+
+**If you need to run code a specific number of times, use a for loop. (It is the most common loop.) In a for loop, the condition is usually a counter which is used to tell how many times the loop should run**
+
+*The For Loop
+The for loop has the following syntax:*
+
+
+for (statement 1; statement 2; statement 3) {
+  
+  // code block to be executed
+
+}
+
+
+* *Example*
+
+for (i = 0; i < 5; i++) {
+  
+  text += "The number is " + i + ("br");
+
+}
+
+2. WHILE LOOP
+
+**If you do not know how many times the code should run, you can use a while loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true**
+
+*The While Loop
+The while loop loops through a block of code as long as a specified condition is true.*
+
+
+* *Syntax*
+
+while (condition) { 
+    
+// code block to be executed
+
+}
+
+
+* *Example*
+
+while (i < 10) {
+  
+  text += "The number is " + i;
+  i++;
+
+}
