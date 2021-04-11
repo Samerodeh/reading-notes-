@@ -54,5 +54,5 @@ create a single value from one or more values.*
 
 ## Functions 
 
-***Functions consist of a series of statements that have been grouped together because they perform a specific task.***
+***Functions consist of a series of statements that have been grouped together because they perform a specific task.*** 
 
