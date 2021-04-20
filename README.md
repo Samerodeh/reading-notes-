@@ -31,3 +31,4 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | class-06 | [class-06](class-06) |
 | class-07 | [class-07](class-07) |
 | class-08 | [class-08](class-08) |
+| class-09 | [class-09](class-09) |
