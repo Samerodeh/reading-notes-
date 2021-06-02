@@ -5,7 +5,7 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 
 > reading-notes tables:
 
-1. ***Code 102 Reading Notes***
+1. ***Code 102 - Intro to Software Development***
 
 
 | read-notes     | links |
@@ -19,7 +19,7 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | css intro & color | [cssintro&color](cssintro&color) |
 
 
-2. ***Code 201 Reading Notes***
+2. ***Code 201 - Foundations of Software Development***
 
 | read-notes     | links |
 | ----------- | ----------- |
@@ -38,3 +38,8 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | class-13 | [class-13](class-13) |
 | class-14a | [class-14a](class-14a) |
 | class-14b | [class-14b](class-14b) |
+
+***Code 301 - Intermediate Software Development*** 
+
+| read-notes     | links |
+| ----------- | ----------- |
