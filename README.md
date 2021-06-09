@@ -46,5 +46,6 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | class 01 | [class01](class01) |
 | class 02 | [class02](class02) |
 | class 03 | [class03](class03) |
+| class 04 | [class04](class04) |
 
 ## Things I want to know more about 
