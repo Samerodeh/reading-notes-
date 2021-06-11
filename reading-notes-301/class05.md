@@ -14,7 +14,6 @@
              ProductCategoryRow
              ProductRow
 
-
 > ### What is the single responsibility principle and how does it apply to components ?
 
 * **single responsibility principle  technique, that is, a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.**
@@ -43,7 +42,7 @@
 
 * Can you compute it based on any other state or props in your component ?
 
-> ### How can you identify where state needs to live ? 
+> ### How can you identify where state needs to live ?
 
 * Identify every component that renders something based on that state.
 
@@ -52,4 +51,3 @@
 * Either the common owner or another component higher up in the hierarchy should own the state.
 
 * If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
-

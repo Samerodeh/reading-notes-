@@ -7,7 +7,6 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 
 1. ***Code 102 - Intro to Software Development***
 
-
 | read-notes     | links |
 | ----------- | ----------- |
 | growthmindset    | [growthmindset](growthmindset)      |
@@ -18,7 +17,6 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | javascript & jQuery | [jsloops](jsloops) |
 | css intro & color | [cssintro&color](cssintro&color) |
 
-
 2. ***Code 201 - Foundations of Software Development***
 
 | read-notes     | links |
@@ -26,7 +24,7 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | class-01 | [class-01](class-01) |
 | class-02 | [class-02](class-02) |
 | class-03 | [class-03](class-03) |
-| class-04 | [class-04](class-04) | 
+| class-04 | [class-04](class-04) |
 | class-05 | [class-05](class-05) |
 | class-06 | [class-06](class-06) |
 | class-07 | [class-07](class-07) |
@@ -39,7 +37,7 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | class-14a | [class-14a](class-14a) |
 | class-14b | [class-14b](class-14b) |
 
-***Code 301 - Intermediate Software Development*** 
+***Code 301 - Intermediate Software Development***
 
 | read-notes     | links |
 | ----------- | ----------- |
@@ -48,5 +46,6 @@ I'm physical therapist and owner of HERA. I'm looking forward to learning progra
 | class 03 | [class03](class03) |
 | class 04 | [class04](class04) |
 | class 05 | [class05](class05) |
+| class 06 | [class06](class06) |
 
-## Things I want to know more about 
+## Things I want to know more about
