@@ -5,7 +5,7 @@ I'm student at LTUC - Programming Development.
 
 > reading-notes tables:
 
-1. ***Code 102 - Intro to Software Development***
+* ***Code 102 - Intro to Software Development***
 
 | read-notes     | links |
 | ----------- | ----------- |
@@ -17,7 +17,7 @@ I'm student at LTUC - Programming Development.
 | javascript & jQuery | [jsloops](jsloops) |
 | css intro & color | [cssintro&color](cssintro&color) |
 
-2. ***Code 201 - Foundations of Software Development***
+* ***Code 201 - Foundations of Software Development***
 
 | read-notes     | links |
 | ----------- | ----------- |
@@ -37,7 +37,7 @@ I'm student at LTUC - Programming Development.
 | class-14a | [class-14a](class-14a) |
 | class-14b | [class-14b](class-14b) |
 
-***Code 301 - Intermediate Software Development***
+* ***Code 301 - Intermediate Software Development***
 
 | read-notes     | links |
 | ----------- | ----------- |
@@ -47,5 +47,7 @@ I'm student at LTUC - Programming Development.
 | class 04 | [class04](class04) |
 | class 05 | [class05](class05) |
 | class 06 | [class06](class06) |
+
+* ***Code 401 - Advanced Software Development***
 
 ## Things I want to know more about
