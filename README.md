@@ -1,7 +1,7 @@
 https://github.com/Samerodeh
 
 # Samerodeh
-I'm physical therapist and owner of HERA. I'm looking forward to learning programming.
+I'm student at LTUC - Programming Development.
 
 > reading-notes tables:
 
