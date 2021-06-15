@@ -49,6 +49,7 @@ I'm student at LTUC - Programming Development.
 | class 06 | [class06](class06) |
 | class 07 | [class07](class07) | 
 | class 08 | [class08](class08) |
+| class 09 | [class09](class09) |
 
 * ***Code 401 - Advanced Software Development***
 
