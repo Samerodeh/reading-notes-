@@ -57,6 +57,10 @@ I'm student at LTUC - Programming Development.
 | class 14a | [class14a](class14a) |
 | class 14b | [class14b](class14b) |
 
-* ***Code 401 - Advanced Software Development***
+* ***Code 401 - Advanced Software Development*** 
+
+| read-notes     | links |
+| ----------- | ----------- |
+| clas 01 | [clas-01](clas-01) |
 
 ## Things I want to know more about
