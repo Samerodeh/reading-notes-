@@ -62,5 +62,6 @@ I'm student at LTUC - Programming Development.
 | read-notes     | links |
 | ----------- | ----------- |
 | clas 01 | [clas-01](clas-01) |
+| clas 02 | [clas-02](clas-02) |
 
 ## Things I want to know more about
