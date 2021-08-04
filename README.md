@@ -70,6 +70,7 @@ I'm student at LTUC - Programming Development.
 | clas 07 | [clas-07](clas-07) |
 | clas 08 | [clas-08](clas-08) |
 | clas 09 | [clas-09](clas-09) |
+| clas 10 | [clas-10](clas-10) |
 
 
 ## Things I want to know more about
