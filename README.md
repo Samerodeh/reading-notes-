@@ -73,5 +73,6 @@ I'm student at LTUC - Programming Development.
 | clas 10 | [clas-10](clas-10) |
 | clas 11 | [clas-11](clas-11) |
 | clas 12 | [clas-12](clas-12) |
+| clas 13 | [clas-13](clas-13) |
 
 ## Things I want to know more about
