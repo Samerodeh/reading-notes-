@@ -479,9 +479,6 @@
     </ul>
     {% endfor %}
 
-*Django ships with a template language that allows for basic logic. Here we use the for tag to loop over all available books. Template tags must be included within opening/closing brackets and parentheses. So the format is always {% for ... %} and then we must close our loop later with {% endfor %}.*
-
-*What we are looping over is the object containing all available books in our model courtesy of ListView. The name of this object is object_list. Therefore to loop over each book we write {% for book in object_list %}. And then display each field from our model.*
 
 ### Webpage 
 
