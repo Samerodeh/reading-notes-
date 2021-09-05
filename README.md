@@ -86,5 +86,6 @@ I'm student at LTUC - Programming Development.
 | clas 29 | [clas-29](clas-29) |
 | clas 30 | [clas-30](clas-30) |
 | clas 31 | [clas-31](clas-31) |
+| clas 32 | [clas-32](clas-32) |
 
 ## Things I want to know more about
