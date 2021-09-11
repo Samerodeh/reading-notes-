@@ -90,5 +90,6 @@ I'm student at LTUC - Programming Development.
 | clas 33 | [clas-33](clas-33) |
 | clas 34 | [clas-34](clas-34) |
 | clas 35 | [clas-35](clas-35) |
+| clas 36 | [clas-36](clas-36) |
 
 ## Things I want to know more about
