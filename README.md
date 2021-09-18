@@ -94,5 +94,6 @@ I'm student at LTUC - Programming Development.
 | clas 37 | [clas-37](clas-37) |
 | clas 38 | [clas-38](clas-38) |
 | clas 39 | [clas-39](clas-39) |
+| clas 41 | [clas-41](clas-41) |
 
 ## Things I want to know more about
