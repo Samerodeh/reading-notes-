@@ -105,3 +105,4 @@ I'm student at LTUC - Programming Development.
 | ----------- | ----------- |
 | DOT NET | [DotNET](DotNET) |
 | Drupal  | [Drupal](Drupal) |
+| Infographic  | [infographic](infographic) |
